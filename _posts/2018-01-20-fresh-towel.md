@@ -11,3 +11,5 @@ author: # Add name author (optional)
 
 > People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
 > ~ Zig Ziglar
+
+*ภาพประกอบ:* [Sheridan Palais Towel Collection](https://www.sheridanaustralia.co.uk/)
