@@ -1,34 +1,32 @@
-title: My personal blog - Adam Neilson
-email: your-email@domain.com
+title: What's Good?
+email: team@sdee.co
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to What's Good? Let's share and learn what's good in our everyday life. Be inspired. Be alive.
 permalink: ':title/'
 baseurl: "/adam-blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author settings
-author: Adam Neilson # add your name
-author-pic: adam-face.jpg
-about-author: My name is Adam Neilson. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 2 years.
+author: What's Good? # add your name
+author-pic: reallife.jpg
+about-author: เรื่องดีมีอยู่ในทุกที่ทุกเวลา ในทุกๆ วัน เรายิ้มให้กัน พวกเราแบ่งปันเรื่องดีๆ แม้ในสิ่งเล็กๆ น้อยๆ ความดีและความงามพร้อมจะนำความสุขและสดชื่นมาให้แก่พวกเราเสมอ ขอความดีจงเบ่งบานทั่วทั้งจักรวาลนี้ด้วยเทอญ
 
 # Contact links
-email: # Add your Email address
-phone: # Add your Phone number
-website: # Add your website, do not add http://
-linkedin: # Add your Linkedin handle
-github: artemsheludko # Add your Github handle
-twitter: '@artemsheludko_' # Add your Twitter handle
-facebook: # Add your Facebook handle
-instagram: # Add your Instagram handle
-pinterest: # Add your Pinterest handle
+email: team@sdee.co # Add your Email address
+phone: (+66)02 939 0491 # Add your Phone number
+website: www.sdee.co # Add your website, do not add http://
+linkedin: udomsak-agsornwong-1a735a31 # Add your Linkedin handle
+github: sdeesreallife # Add your Github handle
+twitter: '@odd_daboss' # Add your Twitter handle
+facebook: SolutionDee # Add your Facebook handle
+instagram: sdees.reallife # Add your Instagram handle
+pinterest: odddaboss # Add your Pinterest handle
 
 # Newsletter
-mailchimp: # Add your MailChimp form identifier.
+mailchimp: sdee.us17.list-manage.com/subscribe/post?u=bc3147fd274300311454d00a4&amp;id=3ce19f9fc9 # Add your MailChimp form identifier.
 
 # Disqus
-discus_identifier: mr-brown # Add your discus identifier
+discus_identifier: whatsgood-1 # Add your discus identifier
 
 # Tracker
 analytics: # Google Analytics
