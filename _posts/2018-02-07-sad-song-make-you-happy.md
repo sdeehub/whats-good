@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 > กาลเวลาผ่านไป แต่ ในใจยังลืมไม่ลง ป่านนี้ เธอคงเบิกบาน ... ใจยัง ... ต้องการ แต่ มันทรมานสิ้นดี ... ใจฉัน ...
 
-*ภาพประกอบ:* [WALLPAPER](https://negativespace.co/closeup-code-screen/)<sup>UP</sup>
+*ภาพประกอบ:* [WALLPAPER](https://www.wallpaperup.com/650985/skamya_park_trees_gardens_chairs_quiet_relax_alone_nature_landscapes_earth.html)<sup>UP</sup>
