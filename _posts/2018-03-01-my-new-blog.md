@@ -8,8 +8,8 @@ tags: [2018-03]
 author: # Add name author (optional)
 ---
 ขึ้นเดือนใหม่เป็นเดือนที่ 3 ก็กำลังจะส่งงานเวบชิ้นใหม่เป็นชิ้นที่ 3 - รวบรวมเอาไว้ว่าแต่ละชิ้นคืออะไรอยู่ที่ไหนได้ตามนี้:
-* [sdee.co](www.sdee.co)
-* [whatsgood](whatsgood.sdee.co)
+* [sdee.co](http://www.sdee.co)
+* [whatsgood](http://whatsgood.sdee.co)
 * ชิ้นที่ 3 กำลังจะออกรอ URL สักแปปนะ
 
 *ภาพประกอบ:* [Stock Snap](https://stocksnap.io)
