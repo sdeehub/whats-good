@@ -3,7 +3,7 @@ layout: post
 title:  หนังสือเล่มเล็ก
 date:   2018-02-21 19:38:00 +0700
 description: # Add post description (optional)
-img: 2018-02-21/pexels-photo-204649.jpeg # Add image post (optional)
+img: 2018-02-21/pexels-photo-204649.jpg # Add image post (optional)
 tags: [2018-02]
 author: # Add name author (optional)
 ---
