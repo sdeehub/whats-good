@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ก้าวไปช้าๆ ค่อยๆ ไปต่อไป"
+title:  "เริ่มผสมโยคะเข้ามาในวันพัก"
 date:   2018-09-18 13:55:00 +0700
 description: # Add post description (optional)
 img: 2018-09-18/patrick-hendry-45138-unsplash.jpg # Add image post (optional)
