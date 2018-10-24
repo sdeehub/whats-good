@@ -29,7 +29,7 @@ mailchimp: sdee.us17.list-manage.com/subscribe/post?u=bc3147fd274300311454d00a4&
 discus_identifier: whatsgood-1 # Add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+analytics: UA-91253622-4 # Google Analytics
 
 # Paginate
 paginate: 6
