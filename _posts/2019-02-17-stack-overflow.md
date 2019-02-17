@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณ StackOverflow"
 date:   2019-02-17 18:54:00 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,h_500,y_120/v1550404339/Screenshot_from_2019-02-17_18-51-39.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/c_crop,h_500,y_250/v1550404339/Screenshot_from_2019-02-17_18-51-39.png # Add image post (optional)
 tags: [2019-02]
 author: # Add name author (optional)
 ---
