@@ -3,7 +3,7 @@ layout: post
 title:  งานชิ้นใหม่
 date:   2018-03-01 09:09:00 +0700
 description: # Add post description (optional)
-img: 2018-03-01/StockSnap_EWVMEU4CCW.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1550378904/StockSnap_EWVMEU4CCW.jpg # Add image post (optional)
 tags: [2018-03]
 author: # Add name author (optional)
 ---
@@ -12,4 +12,4 @@ author: # Add name author (optional)
 * [whatsgood](http://whatsgood.sdee.co)
 * ชิ้นที่ 3 กำลังจะออกรอ URL สักแปปนะ
 
-*ภาพประกอบ:* [Stock Snap](https://stocksnap.io)
+*ภาพที่ใช้:* [Stock Snap](https://stocksnap.io)
