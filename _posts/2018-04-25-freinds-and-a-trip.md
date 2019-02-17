@@ -3,7 +3,7 @@ layout: post
 title:  Friends and A Trip
 date:   2018-04-25 00:09:00 +0700
 description: # Add post description (optional)
-img: 2018-04-25/IMG_4451.JPG # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1550381168/IMG_4451.jpg # Add image post (optional)
 tags: [2018-04]
 author: # Add name author (optional)
 ---
