@@ -9,6 +9,6 @@ author: # Add name author (optional)
 ---
 วันพุธที่ 24 มกราคม 2561 วันนี้เป็นวันพระ [ขึ้น 8 ค่ำเดือน 3](http://www.sdee.co/sdees/2018/01/24/buddhist-holy-days-2018/) วันพระ คือ วันของการถือศีลฟังธรรม หรือ ถ้าพวกเราจะ `ถือศีล และ ฟังธรรม` เป็นประจำทำให้ได้ทุกวันก็ยิ่งดี วันพระนี้ขอความสงบเย็นในใจนำมาซึ่งความสุข ความสบายแก่พวกเราทุกๆ คน
 
-> Peace comes from within. Do not seek it without. ~ Buddha
-
 *ภาพที่ใช้:* [Calm Sunset 4K Wallpapers](https://www.hdwallpapers.in/calm_sunset_4k-wallpapers.html)
+
+> Peace comes from within. Do not seek it without. ~ Buddha

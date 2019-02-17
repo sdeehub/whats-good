@@ -9,7 +9,6 @@ author: # Add name author (optional)
 ---
 เย็นนี้อาบน้ำแล้วเย็นสบาย วันนี้ใช้ผ้าเช็ดตัวผืนที่ซักมาใหม่ ขาว สะอาด สดชื่น หลังอาบน้ำตัวเปียก แต่ ใช้ผ้าเช็ดตัว เช็ด แล้วตัวแห้งสบาย ‣ อาบน้ำก็เหมือนกำลังใจ คือ พวกเราต้องอาบน้ำทุกวัน และ ต้องเพิ่มกำลังใจทุกๆ วัน ด้วยเช่นกัน
 
-> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
-> ~ Zig Ziglar
-
 *ภาพที่ใช้:* [Sheridan Palais Towel Collection](https://www.sheridanaustralia.co.uk/)
+
+> People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily. ~ Zig Ziglar
