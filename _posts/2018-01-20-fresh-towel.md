@@ -3,7 +3,7 @@ layout: post
 title:  ผ้าเช็ดตัว!
 date:   2018-01-20 19:30:00 +0700
 description: # Add post description (optional)
-img: 2018-01-20/towel.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1550369659/towel.jpg # Add image post (optional)
 tags: [2018-01]
 author: # Add name author (optional)
 ---
@@ -12,4 +12,4 @@ author: # Add name author (optional)
 > People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.
 > ~ Zig Ziglar
 
-*ภาพประกอบ:* [Sheridan Palais Towel Collection](https://www.sheridanaustralia.co.uk/)
+*ภาพที่ใช้:* [Sheridan Palais Towel Collection](https://www.sheridanaustralia.co.uk/)
