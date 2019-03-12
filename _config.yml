@@ -1,7 +1,7 @@
 title: What's Good?
 email: team@sdee.co
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to What's Good? Let's share and learn what's good in our everyday life. Be inspired. Be alive.
+  Welcome to What's Good? Let's share and learn what's good in our everyday lives. Be inspired. Be alive.
 permalink: ':title/'
 baseurl: "/whats.good" # the subpath of your site, e.g. /blog
 url: "https://sdeehub.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
