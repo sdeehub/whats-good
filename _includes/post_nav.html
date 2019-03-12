@@ -1,13 +1,13 @@
 <div class="pagination clearfix">
   {% if page.previous.url %}
-    <a href="{{ page.previous.url | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> Prev</a>
+    <a href="{{ page.previous.url | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> {{ post.date | date: '%Y.%m.%d' }}</a>
   {% else %}
     <a href="{{ site.baseurl }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i>
     whats.good
   </a>
   {% endif %}
   {% if page.next.url %}
-    <a href="{{ page.next.url | relative_url }}" class="next">Next <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    <a href="{{ page.next.url | relative_url }}" class="next">{{ post.date | date: '%Y.%m.%d' }} <i class="fa fa-angle-right" aria-hidden="true"></i></a>
   {% else %}
     <a href="{{ site.baseurl }}" class="next">whats.good <i class="fa fa-angle-right" aria-hidden="true"></i></a>
   {% endif %}
