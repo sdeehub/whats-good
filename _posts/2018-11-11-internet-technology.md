@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณ internet technology"
 date:   2018-11-11 22:43:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555237018/IMG_20181111_171132620.jpg # Add image post (optional)
 tags: [2018-11]
 author: # Add name author (optional)
 ---

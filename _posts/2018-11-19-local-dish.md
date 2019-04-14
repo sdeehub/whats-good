@@ -3,7 +3,7 @@ layout: post
 title:  "ขนมจีนน้ำเงี้ยว"
 date:   2018-11-19 20:27:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555237803/IMG_6333.jpg # Add image post (optional)
 tags: [2018-11]
 author: # Add name author (optional)
 ---

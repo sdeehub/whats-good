@@ -3,7 +3,7 @@ layout: post
 title:  "Scala"
 date:   2018-11-16 17:27:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555237567/IMG_6291.jpg # Add image post (optional)
 tags: [2018-11]
 author: # Add name author (optional)
 ---
