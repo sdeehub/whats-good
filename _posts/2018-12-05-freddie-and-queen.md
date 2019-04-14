@@ -3,7 +3,7 @@ layout: post
 title:  "Queen"
 date:   2018-12-05 20:00:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555239482/queen.jpg # Add image post (optional)
 tags: [2018-12]
 author: # Add name author (optional)
 ---
@@ -12,3 +12,5 @@ author: # Add name author (optional)
 หลังจากนั้นก็ฟังอีกบ่อยๆ จนเริ่มคุ้น และก็รักเพลงนี้และวงนี้ มีอีกช่วงตอนที่ประกวดวงดนตรี จำได้ลางๆ ว่ามีการพูดถึงว่าจะเอาเพลง Crazy Little Thing Called Love มาเล่นด้วย แต่ก็ไม่สำเร็จ น่าจะเพราะพวกเราไม่มีเสียงประสาน หรือแม้แต่ความสนุกสนาน ก็น่าจะยาก เพราะจะเน้นเอามันส์เป็นหลัก
 
 ขอขอบคุณ Queen และหนังอีกครั้ง บางครั้งเราก็ได้แต่รู้จักพวกเค้าผ่านการดูหนัง ฟังเพลง หรือได้ยินจากข่าว แต่เรื่องราวทั้งหมดจริงๆ คงมากมายก็นี้เยอะ ขอบคุณที่เค้าตั้งใจทำงานเพลง และเป็นแรงบันดาลใจให้กับผู้คนมากมาย รวมทั้งเราด้วย
+
+*ขอบคุณรูปหน้าปกอัลบั้มจาก: progarchives.com*

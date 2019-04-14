@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณน้องๆ S'DEE"
 date:   2018-12-04 19:28:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555239387/IMG_20161226_111654899.jpg # Add image post (optional)
 tags: [2018-12]
 author: # Add name author (optional)
 ---

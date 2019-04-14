@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณที่ทำให้เราได้เจอกัน"
 date:   2018-12-10 20:16:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://source.unsplash.com/0VGG7cqTwCo # Add image post (optional)
 tags: [2018-12]
 author: # Add name author (optional)
 ---
@@ -14,3 +14,5 @@ author: # Add name author (optional)
 ที่น่าจะเกิดขึ้นคงจะเป็นไปได้ว่าตั้งใจปิด notification ไปให้หมด แล้วก็หยุดใช้ ไม่ log in เข้าไป - ขอบคุณและลองดูนะว่าผลลัพธ์จะเป็นยังไง หรือถึงแม้ผลลัพธ์จะไม่ได้เปลี่ยนแปลงอะไร แต่อย่างน้อยก็น่าจะแน่นอนนะว่ากระบวนการต้องเปลี่ยนไปอย่างแน่นอน
 
 ขอบคุณและลาก่อน social network
+
+*Photo by [Rodion Kutsaev](https://unsplash.com/@frostroomhead) on [Unsplash](https://unsplash.com/)*
