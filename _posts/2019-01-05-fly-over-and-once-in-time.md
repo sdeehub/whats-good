@@ -3,7 +3,7 @@ layout: post
 title:  "วันนี้ได้ใช้สะพานข้ามแยกเกษตรฯ"
 date:   2019-01-05 17:41:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555291915/kaset-junction.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555312757/image_big_5b6d4b4759c52.jpg # Add image post (optional)
 tags: [2019-01]
 author: # Add name author (optional)
 ---
@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 นึกถึงวันเวลาที่ผ่านมาแล้วรู้สึกขอบคุณความเป็นไปทั้งหมดในย่านบางเขนและเกษตรฯ เลยมาถึงรัชดาฯ จากอดีต-ปัจจุบัน และต่อไปถึงในอนาคตด้วย ขอบคุณนะครับ
 
-*ขอบคุณภาพประกอบจาก [SpringNews](https://www.springnews.co.th/)*
+*ขอบคุณภาพประกอบจาก thaipost.net*
