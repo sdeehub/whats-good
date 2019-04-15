@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณคุณยายม้วน"
 date:   2018-12-20 22:22:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/c_scale,w_600/v1555291913/60705_453946871319222_484756873_n.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555291913/60705_453946871319222_484756873_n.png # Add image post (optional)
 tags: [2018-12]
 author: # Add name author (optional)
 ---
