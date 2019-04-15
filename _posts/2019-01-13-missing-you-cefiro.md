@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณและคิดถึง Cefiro"
 date:   2019-01-13 17:13:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555292114/IMG_2808.jpg # Add image post (optional)
 tags: [2019-01]
 author: # Add name author (optional)
 ---

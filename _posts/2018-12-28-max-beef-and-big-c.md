@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณ Max Beef และ Big C"
 date:   2018-12-28 20:19:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555291914/IMG_20160821_111959.jpg # Add image post (optional)
 tags: [2018-12]
 author: # Add name author (optional)
 ---

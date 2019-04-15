@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณ Louise Hay"
 date:   2019-02-02 16:04:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555292146/louise.jpg # Add image post (optional)
 tags: [2019-02]
 author: # Add name author (optional)
 ---

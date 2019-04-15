@@ -3,7 +3,7 @@ layout: post
 title:  "ขอบคุณคุณครู"
 date:   2019-01-16 16:30:08 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555207707/Screenshot_from_2019-04-14_09-06-54.png # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555292114/IMG_20190116_121213156_BURST001.jpg # Add image post (optional)
 tags: [2019-01]
 author: # Add name author (optional)
 ---
