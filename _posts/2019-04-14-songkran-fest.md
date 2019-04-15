@@ -3,7 +3,7 @@ layout: post
 title: สงกรานต์เมื่อปีที่แล้ว
 date:   2019-04-14 17:18:19 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555314978/IMG_4133.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1555314978/IMG_4133.jpg # Add image post (optional)
 tags: [2019-04]
 author: # Add name author (optional)
 ---
