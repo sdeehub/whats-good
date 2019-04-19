@@ -3,7 +3,7 @@ layout: post
 title:  ขอบคุณ Google Drive
 date:   2019-02-22 15:59:12+0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1550826331/Screenshot_from_2019-02-22_16-05-04.png # Add image post (optional)
+img: https://source.unsplash.com/oZPwn40zCK4 # Add image post (optional)
 tags: [2019-02]
 author: # Add name author (optional)
 ---
@@ -12,3 +12,5 @@ author: # Add name author (optional)
 ตอนนี้ใกล้เข้ามาแล้วที่จะยกเลิกการใช้งาน Google Drive - `google.com/a` ขอขอบคุณที่ให้เราเข้าถึงเทคโนโลยีที่ดี และมีประโยชน์กับพวกเรามากที่สุดในเรื่องของการจัดการเอกสารและไฟล์งานต่างๆ และก็ยังเป็นแนวทางให้เราเอาความสะดวกสบายนี้ไปแนะนำให้กับลูกค้าของเราด้วย
 
 ขอบคุณและลาก่อน ไว้เราค่อยพบกันใหม่
+
+*Photo by [Kvistholt Photography](https://unsplash.com/@freeche) on [Unsplash](https://unsplash.com/)*
