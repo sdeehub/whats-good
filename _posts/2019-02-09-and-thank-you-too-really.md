@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 ว่าแล้วก็เดินหน้าต่อไป ออกจากระบบหมุนวนทางการเงินนี้ให้ได้ ถึงตอนนั้นคงได้รู้สึกขอบคุณระบบธนาคารอีกครั้งที่ได้เป็นจุดเริ่มต้นให้เราได้ทำตามฝัน และสามารถหลุดพ้นพันธนาการทางการเงินได้ในที่สุด
 
-*Photo by  [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/)*
+*Photo by [Sharon McCutcheon](https://unsplash.com/@sharonmccutcheon) on [Unsplash](https://unsplash.com/)*
