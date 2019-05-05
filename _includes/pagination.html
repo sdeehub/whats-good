@@ -1,8 +1,8 @@
 <div class="pagination clearfix">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | relative_url }}" class="previous"><i class="fa fa-angle-left" aria-hidden="true"></i> Next</a>
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="next"><i class="fa fa-backward" aria-hidden="true"></i> Prev</a>
   {% endif %}
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | relative_url }}" class="next">Prev <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    <a href="{{ paginator.next_page_path | relative_url }}" class="previous">Prev <i class="fa fa-angle-right" aria-hidden="true"></i></a>
   {% endif %}
 </div>
