@@ -1,7 +1,7 @@
 ---
 layout: post
 title: วันพระและอื่นๆ
-date:   2019-06-01 23:10:03 +0700
+date:   2019-06-02 23:10:03 +0700
 description: # Add post description (optional)
 img: https://source.unsplash.com/Cz_SNZZyHgI # Add image post (optional)
 tags: [2019-06]
