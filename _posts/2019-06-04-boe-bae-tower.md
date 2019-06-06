@@ -3,7 +3,7 @@ layout: post
 title: โบ๊เบ๊ - 2 รอบ
 date:   2019-06-04 21:36:06 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1559799292/IMG_8123.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1559799292/IMG_8123.jpg # Add image post (optional)
 tags: [2019-06]
 author: # Add name author (optional)
 ---
@@ -15,4 +15,4 @@ author: # Add name author (optional)
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 - ล้างจาน ทิ้งขยะ
 - ใช้รถสาธารณะ
-- ช่วยอะไรใครได้ เราก็ช่วยนะครับ ถึงจะเป็นแค่หยิบของที่เจ้าของทำหลุนแค่นี้ก็เถอะ ก็ถือว่าได้ช่วยละนะ
+- ช่วยอะไรใครได้ เราก็ช่วยนะครับ ถึงจะเป็นแค่หยิบของที่เจ้าของทำหล่นแค่นี้ก็เถอะนะ ช่วยหยิบให้แค่นี้แต่ก็คือได้ตั้งใจจะช่วยกันจริงๆ ล่ะนะ
