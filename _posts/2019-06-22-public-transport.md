@@ -3,7 +3,7 @@ layout: post
 title: รถทัวร์
 date:   2019-06-22 22:17:15 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1561297660/IMG_8242.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1561297660/IMG_8242.jpg # Add image post (optional)
 tags: [2019-06]
 author: # Add name author (optional)
 ---
