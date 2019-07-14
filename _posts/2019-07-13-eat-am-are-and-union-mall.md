@@ -3,11 +3,11 @@ layout: post
 title: มาทานข้าวกัน
 date:   2019-07-13 21:52:04 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1561562273/583213730.167949-COLLAGE.jpg # Add image post (optional)
+img: https://source.unsplash.com/9V2YVX_Cojg # Add image post (optional)
 tags: [2019-07]
 author: # Add name author (optional)
 ---
-ขอบคุณปากทางลาดพร้าว / ขอบคุณ Union Mall / ขอบคุณ Eat Am Are - จำได้ว่ามาปากทางลาดพร้าวสมัยที่มาอยู่บ้านลาดพร้าวนี้ใหม่ (ปากทางลาดพร้าวยังเป็นตลาด) ได้เดินสวนกับเชนเพื่อนสมัยวิเชียรชม สงขลาอยู่ครั้งนึง
+ขอบคุณผู้คน-สถานที่-วันเวลา-คำทำนาย : ขอบคุณปากทางลาดพร้าว / ขอบคุณ Union Mall / ขอบคุณ Eat Am Are - จำได้ว่ามาปากทางลาดพร้าวสมัยที่มาอยู่บ้านลาดพร้าวนี้ใหม่ๆ (ปากทางลาดพร้าวยังเป็นตลาด) ได้เดินสวนกับเชนเพื่อนสมัยวิเชียรชม สงขลาอยู่ครั้งนึง
 
 จำได้ว่า Union Mall ตอนเปิดใหม่ๆ ไม่ค่อยมีคน ที่จอดรถว่าง โล่ง ทำให้สงสัยว่าหัวมังกรจะเป็นยังไง - แต่ตอนนี้หายสงสัยได้เลย ผู้คนคึกคัก ร้านค้าขายของได้ดีน่ายินดีกับย่านนี้ไปด้วย
 
@@ -18,3 +18,5 @@ author: # Add name author (optional)
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 
 กลับบ้านเป็นความดีที่สุด
+
+*Photo by [Kimia Zarifi](https://unsplash.com/@kimzifi) on [Unsplash](https://unsplash.com)*

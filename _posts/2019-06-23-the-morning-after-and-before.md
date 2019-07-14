@@ -1,7 +1,7 @@
 ---
 layout: post
 title: เช้าวันอาทิตย์แบบนี้
-date:   2019-06-22 22:17:15 +0700
+date:   2019-06-23 22:17:15 +0700
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1561297678/IMG_8235.jpg # Add image post (optional)
 tags: [2019-06]
@@ -17,4 +17,4 @@ author: # Add name author (optional)
 
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 - ช่วยแวะซื้อก๋วยเตี๋ยว
-- ช่วยแวะไปหมอชิต แต่วันนี้เป็นตั๋วรถไฟ BTS
+- ช่วยแวะไปหมอชิต แต่วันนี้แวะไปซื้อตั๋วรถไฟ BTS ให้เด็กนักเรียน
