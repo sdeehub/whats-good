@@ -3,7 +3,7 @@ layout: post
 title: วันนี้ก็คือวันนี้
 date:   2019-07-15 19:37:51 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1563280621/IMG_8468.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1563280621/IMG_8468.jpg # Add image post (optional)
 tags: [2019-07]
 author: # Add name author (optional)
 ---
@@ -21,4 +21,4 @@ author: # Add name author (optional)
 
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 
-วันนี้มายกเลิก Internet ให้กับผู้เช่าของเรา / ตอนค่ำแวะมารับน้องร้องประสานเสียงที่โรงแรม Pullman แล้วไปทานขนมกันที่ร้านเจ๊วรรณ
+วันนี้มายกเลิก Internet ให้กับผู้เช่าของเรา / ตอนค่ำแวะมารับน้องร้องประสานเสียงที่โรงแรม Pullman แล้วไปทานขนมกันที่ร้านเจ้วรรณ
