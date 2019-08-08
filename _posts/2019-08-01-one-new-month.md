@@ -3,15 +3,15 @@ layout: post
 title: เดือนใหม่แล้ว
 date:   2019-08-01 08:04:44 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1564885957/IMG_8609.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1564885957/IMG_8609.jpg # Add image post (optional)
 tags: [2019-08]
 author: # Add name author (optional)
 ---
-ขอบคุณเดือนใหม่ / ขอบคุณเดือนที่ผ่านมา / ขอบคุณเรื่องราวที่ผ่านมา / ขอบคุณที่กำลังจะผ่านเข้ามา
+ขอบคุณเดือนใหม่ / ขอบคุณเดือนที่ผ่านมา / ขอบคุณเรื่องราวที่ผ่านมา / ขอบคุณเรื่องที่กำลังจะผ่านเข้ามา
 
 และที่สำคัญขอบคุณสำหรับตอนนี้ / ขอบคุณสำหรับการแจ้งเตือนยอดเข้าบัญชีจากธนาคารกรุงศรีฯ
 
-ขอบคุณที่บ้าน / ขอบคุณที่ทำงาน / ขอบคุณเพื่อนๆ - ขอบคุณทุกๆ อย่างเป็นอย่างสูงครับ
+ขอบคุณที่บ้าน / ขอบคุณที่ทำงาน / ขอบคุณเพื่อนๆ - ขอบคุณทุกๆ อย่างไว้เป็นอย่างสูงครับ
 
 <i class="fa fa-child" style="color:plum"></i>
 
