@@ -1,0 +1,16 @@
+---
+layout: post
+title: เช้าวันที่ ... 11
+date:   2019-08-11 07:10:11 +0700
+description: # Add post description (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1565795805/IMG_20190811_112059.jpg # Add image post (optional)
+tags: [2019-08]
+author: # Add name author (optional)
+---
+ขอบคุณ Savigent / ขอบคุณไดมอนด์ 2 / ขอบคุณวันอาทิตย์ / ขอบคุณสามย่าน ทั้งย่าน รวมถึง ร้านขนม และ ร้านทานข้าวอร่อยแถวนี้ไว้ด้วย - วันนี้เรามานั่งทานเค้กต้นกก กับ โจ๊กสามย่านด้วยกัน
+
+<i class="fa fa-child" style="color:plum"></i>
+
+*ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
+
+วันนี้มาแถวสามย่าน ก็ขับรถสบายๆ บวกกับน้ำใจและความสุขที่มีให้กับตัวเราและสมาชิกทุกคนในครอบครัว
