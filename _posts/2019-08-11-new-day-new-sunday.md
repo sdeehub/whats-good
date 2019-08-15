@@ -3,11 +3,11 @@ layout: post
 title: เช้าวันที่ ... 11
 date:   2019-08-11 07:10:11 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1565795805/IMG_20190811_112059.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1565795805/IMG_20190811_112059.jpg # Add image post (optional)
 tags: [2019-08]
 author: # Add name author (optional)
 ---
-ขอบคุณ Savigent / ขอบคุณไดมอนด์ 2 / ขอบคุณวันอาทิตย์ / ขอบคุณสามย่าน ทั้งย่าน รวมถึง ร้านขนม และ ร้านทานข้าวอร่อยแถวนี้ไว้ด้วย - วันนี้เรามานั่งทานเค้กต้นกก กับ โจ๊กสามย่านด้วยกัน
+ขอบคุณ Savigent / ขอบคุณไดมอนด์ 2 / ขอบคุณวันอาทิตย์ / ขอบคุณสามย่าน ทั้งย่าน ที่รวมถึง ร้านน้ำปั่น ร้านกาแฟ ร้านขนม และ ร้านทานข้าวอร่อยๆ แถวนี้ไว้ด้วย - วันนี้เรามานั่งรอ นั่งทานกาแฟ ทานเค้กต้นกก แล้วก็ทานโจ๊กสามย่านด้วยกัน
 
 <i class="fa fa-child" style="color:plum"></i>
 
