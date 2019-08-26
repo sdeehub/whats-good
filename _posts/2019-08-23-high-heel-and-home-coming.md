@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1566729394/58821503
 tags: [2019-08]
 author: # Add name author (optional)
 ---
-ขอบคุณขนมร้านคุณหน่อย / ขอบคุณข้าวต้มปลา / ขอบคุณการเดินทางกลับบ้าน / ขอบคุณ Vito / ขอบคุณ Tollway
+ขอบคุณกะหรี่ปั๊บคุณจุ๋ม (อร่อยติดใจมาแวะก่อนกลับครั้งที่ 2) / ขอบคุณข้าวต้มปลาใต้เล่งฮวด / ขอบคุณการเดินทางกลับบ้าน / ขอบคุณ Vito / ขอบคุณ Tollway
 
 <i class="fa fa-child" style="color:plum"></i>
 
