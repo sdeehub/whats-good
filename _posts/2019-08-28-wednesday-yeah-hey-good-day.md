@@ -3,7 +3,7 @@ layout: post
 title: กลับมาเจอกันอีกครั้ง
 date:   2019-08-28 21:32:17 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1567153478/line_1566904129791.jpg # Add image post (optional)
+img: https://cdn.cnn.com/cnnnext/dam/assets/140528113156-04-maya-angelou-quotes-restricted-horizontal-large-gallery.jpg # Add image post (optional)
 tags: [2019-08]
 author: # Add name author (optional)
 ---
