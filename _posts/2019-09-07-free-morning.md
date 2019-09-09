@@ -3,7 +3,7 @@ layout: post
 title: วันเสาร์นี้งดเรียน
 date:   2019-09-07 20:29:47 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1568018108/IMG_8989.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1568018108/IMG_8989.jpg # Add image post (optional)
 tags: [2019-09]
 author: # Add name author (optional)
 ---
@@ -15,4 +15,4 @@ author: # Add name author (optional)
 
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 
-วันนี้เปลี่ยนยาง เปลี่ยนวิธีการเข้ารับบริการ คือ ตั้งใจฟัง เปิดใจ เชื่อมั่นในผู้ให้บริการ 
+วันนี้เปลี่ยนยาง เปลี่ยนวิธีการเข้ารับบริการ คือ ตั้งใจฟัง เปิดใจ เชื่อมั่นในผู้ให้บริการ
