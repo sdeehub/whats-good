@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1568350989/line
 tags: [2019-09]
 author: # Add name author (optional)
 ---
-ขอบคุณก๋วยเตี๋ยวไก่ไฟเหลือง / ขอบคุณฟองนม / ขอบคุณ [MOREMOVE](www.moremove.com) : 57 ร้านอร่อยริมทางเมืองย่าโม
+ขอบคุณก๋วยเตี๋ยวไก่ไฟเหลือง / ขอบคุณฟองนม / ขอบคุณ [MOREMOVE](http://www.moremove.com) : 57 ร้านอร่อยริมทางเมืองย่าโม
 
 <i class="fa fa-child" style="color:plum"></i>
