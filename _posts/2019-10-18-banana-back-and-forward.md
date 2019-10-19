@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณความตั้งใจ แลละ แรงอะิษฐานของพวกเราทุกคนครับ
+ขอบคุณความตั้งใจ แลละ แรงอธิษฐานของพวกเราทุกๆ คนครับ
