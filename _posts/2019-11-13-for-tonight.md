@@ -1,0 +1,14 @@
+---
+layout: post
+title: "นอน!"
+date:   2019-11-13 21:28:54 +0700
+description: # Add post description (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1573660443/IMG_20191113_074248.jpg # Add image post (optional)
+tags: [2019-11]
+author: # Add name author (optional)
+---
+ขอบคุณเสื้อเปียกๆ / ขอบคุณการออกกำลังกาย / ขอบคุณน้ำใช้ น้ำอาบ น้ำดื่ม / ขอบคุณความสดชื่น / ขอบคุณการฝึกซ้อมร้องเพลง / ขอบคุณกล้วยห้อย - แอพพลิแคด และ IPO
+
+<i class="fa fa-child" style="color:plum"></i>
+
+ขอบคุณและดีใจในความสำเร็จของเพื่อนๆ ทุกๆ คน - ความพยายาม - การถึงเป้าหมาย และ ความสำเร็จที่น่ายินดี ขอบคุณครับ
