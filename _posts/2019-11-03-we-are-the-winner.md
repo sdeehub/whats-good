@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "การประกวด"
+title: "การประกวดร้องประสานเสียง"
 date:   2019-11-03 19:20:25 +0700
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1572879221/IMG_9372.jpg # Add image post (optional)
