@@ -3,7 +3,7 @@ layout: post
 title: "ขอบคุณการเตรียมพร้อม"
 date:   2019-12-10 22:37:15 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1575991937/IMG_9912.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1575992556/IMG_9892.jpg # Add image post (optional)
 tags: [2019-12]
 author: # Add name author (optional)
 ---
