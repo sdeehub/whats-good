@@ -3,7 +3,7 @@ layout: post
 title: "This is it!"
 date:   2019-12-15 22:37:15 +0700
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1576511576/IMG_9941.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1576596627/1576596344960.jpg # Add image post (optional)
 tags: [2019-12]
 author: # Add name author (optional)
 ---
