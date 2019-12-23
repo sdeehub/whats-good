@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1576939279/line_157
 tags: [2019-12]
 author: # Add name author (optional)
 ---
-ขอบคุณ A.C.T. / ขอบคุณ 1300 / ขอบคุณสอง / ขอบคุณ Queen / ขอบคุณมื้อเช้าร้านป้านี / ขอบคุณเช่ารถ Budget
+ขอบคุณ A.C.T. / ขอบคุณสอง / ขอบคุณ Queen / ขอบคุณมื้อเช้าร้านป้านี / ขอบคุณรถเช่า เช่ารถ Budget
 
 <i class="fa fa-child" style="color:plum"></i>
 

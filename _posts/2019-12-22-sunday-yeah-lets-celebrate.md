@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1577027751/IMG_2019
 tags: [2019-12]
 author: # Add name author (optional)
 ---
-ขอบคุณสภากาชาด / ขอบคุณวัดหัวลำโพง / ขอบคุณรถไฟใต้ดิน / ขอบคุณวัดมังกร / ขอบคุณเยาวราช และ China Town ในทุกๆ ที่
+ขอบคุณสภากาชาด / ขอบคุณวัดหัวลำโพง / ขอบคุณรถไฟใต้ดิน / ขอบคุณวัดมังกร / ขอบคุณเยาวราช และ China Town ในทุกๆ ที่ / ขอบคุณ RD Online
 
 <i class="fa fa-child" style="color:plum"></i>
 
