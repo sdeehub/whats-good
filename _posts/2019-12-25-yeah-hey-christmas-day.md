@@ -11,7 +11,7 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - หายใจเข้าลึก และ ยาว หายใจออกเบา และ ผ่อนคลาย
+How can I grow? - หายใจเข้าลึก และ ยาว หายใจออกสบายๆ และ ผ่อนคลาย
 
 What can I give? - แบ่งเวลามาเตรียมข้อมูล และ คำแนะนำให้กับผู้ที่ต้องการความมั่นใจ หรือ ความช่วยเหลือ
 
