@@ -11,8 +11,8 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - เติบโตในตึกใหญ่ใจกลางเมือง
+How can I grow? - เติบโตในบ้านครอบครัวใหญ่ใหญ่ใจกลางเมือง
 
-What can I give? - ปลูกต้นไม้ ปลูกความสดชื่น
+What can I give? - ให้ความอดทน รอคอย ให้กำลังใจ รอการก่อสร้างเรือนปลูกต้นไม้ของพวกเรา
 
-What can I celebrate? - ต้นไม้ ดอกไม้ ธรรมชาติ พาชื่นใจ
+What can I celebrate? - ความคืบหน้าในแต่ละวัน ความสำเร็จในแต่ละก้าว เรียนรู้และมีความสุขกับชีวิตและวัน-เวลา
