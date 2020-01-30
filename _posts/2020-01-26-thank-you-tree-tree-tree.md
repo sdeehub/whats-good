@@ -11,7 +11,7 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - เติบโตในบ้านครอบครัวใหญ่ใหญ่ใจกลางเมือง
+How can I grow? - เติบโตในบ้านครอบครัวใหญ่ใจกลางเมือง
 
 What can I give? - ให้ความอดทน รอคอย ให้กำลังใจ รอการก่อสร้างเรือนปลูกต้นไม้ของพวกเรา
 
