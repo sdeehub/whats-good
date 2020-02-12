@@ -1,0 +1,20 @@
+---
+layout: post
+title: "กลับบ้านกัน!"
+date:   2020-02-12 20:55:50 +0700
+description: # Add post description (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1581515637/IMG_0696.jpg # Add image post (optional)
+tags: [2020-02]
+author: # Add name author (optional)
+---
+ขอบคุณการเดินทางกลับบ้าน / ขอบคุณนมหนองโพ / ขอบคุณนมไทย-เดนมาร์ค / ขอบคุณเครื่องดื่มนมที่มีประโยชน์กับร่างกาย กับการเจริญเติบโตของเราทุกๆ คน
+
+วันนี้พอสายๆ ที่บ้านแดดแรง ดอกไม้ก็บานรับแดดให้พวกเราได้ชื่นใจ ขอบคุณและขอบใจมากๆ นะดอกไม้ และ คนปลุก คนดูแล และ ธรรมชาติด้วยที่ช่วยกัน
+
+<i class="fa fa-child" style="color:plum"></i>
+
+How can I grow? - เติบโตทีละน้อย ด้วยนมกล่องเล็กๆ
+
+What can I give? - ขอบคุณ และ แนะนำให้ใครที่อยากสูงให้ดื่มนม
+
+What can I celebrate? - จากเด็กตัวเล็กๆ กลายเป็นผู้ใหญ่ตัวใหญ่ๆ :)
