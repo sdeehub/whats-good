@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "All good!"
+title: "All is well!"
 date:   2020-02-18 22:06:09 +0700
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1582123787/1581941599952.jpg # Add image post (optional)
