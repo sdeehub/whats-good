@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ศุกร์ที่ 29"
+title: "เสาร์ที่ 29"
 date:   2020-02-29 23:38:50 +0700
 description: # Add post description (optional)
 img: https://source.unsplash.com/nsYboB2RDwU # Add image post (optional)
