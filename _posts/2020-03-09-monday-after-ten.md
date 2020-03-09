@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "งาน event"
+title: "อภัยและไปต่อ"
 date:   2020-03-09 T22:18:37+07:00
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1583766884/IMG_20200309_220945.jpg # Add image post (optional)
@@ -11,7 +11,7 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - กลับมาทำงาน กลับมาเริ่มงาน
+How can I grow? - กลับมาทำงาน กลับมาเริ่มงาน กลับมาสำเร็จ
 
 What can I give? - ให้อภัย และ ให้กำลังใจกับตัวเราเอง
 
