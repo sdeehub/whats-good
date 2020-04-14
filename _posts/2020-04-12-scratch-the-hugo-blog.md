@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1586791203/Screensh
 tags: [2020-04]
 author: # Add name author (optional)
 ---
-ขอบคุณ [Make a Hugo blog from scratch | zwbetz](https://zwbetz.com/make-a-hugo-blog-from-scratch/) / ขอบคุณ Hugo / ขอบคุณ email เรื่อง update .dll / ขอบคุณวันอาทิตย์
+ขอบคุณ [Make a Hugo blog from scratch](https://zwbetz.com/make-a-hugo-blog-from-scratch/) / ขอบคุณ Hugo / ขอบคุณ email เรื่อง update .dll / ขอบคุณวันอาทิตย์
 
 <i class="fa fa-child" style="color:plum"></i>
