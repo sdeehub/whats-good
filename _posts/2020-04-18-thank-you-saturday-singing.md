@@ -3,7 +3,7 @@ layout: post
 title: "วันเสาร์"
 date:   2020-04-18 T22:36:03+07:00
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1587287961/IMG_1708.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1587287961/IMG_1708.jpg # Add image post (optional)
 tags: [2020-04]
 author: # Add name author (optional)
 ---
