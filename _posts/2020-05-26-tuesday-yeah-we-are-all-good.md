@@ -3,7 +3,7 @@ layout: post
 title: "ก่อนวันตลาดต้นไม้"
 date: 2020-05-26 T22:43:24+07:00
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1590567676/IMG_2228.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1590567676/IMG_2228.jpg # Add image post (optional)
 tags: [2020-05]
 author: # Add name author (optional)
 ---
