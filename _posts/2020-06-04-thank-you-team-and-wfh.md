@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1591283454/IMG_
 tags: [2020-06]
 author: # Add name author (optional)
 ---
-ขอบคุณวันพุธ / ขอบคุณ Dell Inspiron 13 5000 / ขอบคุณ Odio / ขอบคุณ Kiss FM 100.3
+ขอบคุณวันพุธ / ขอบคุณ Dell Inspiron 13 5000 / ขอบคุณ Odio / ขอบคุณ Kiss FM 100.3 Nairobi Kenya
 
 <i class="fa fa-child" style="color:plum"></i>
