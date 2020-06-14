@@ -3,7 +3,7 @@ layout: post
 title: "บ้าน"
 date: 2020-06-08 T15:21:48+07:00
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1591715969/IMG_20150609_094033.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/a_-90/v1591715969/IMG_20150609_094033.jpg # Add image post (optional)
 tags: [2020-06]
 author: # Add name author (optional)
 ---
