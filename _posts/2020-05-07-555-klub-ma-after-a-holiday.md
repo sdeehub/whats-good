@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-สำหรับตอนนี้ วันนี้ - หลับฝันดีนะทุกๆ คน :)
+สำหรับตอนนี้ วันนี้ - หลับฝันดีนะทุก ๆ คน :)

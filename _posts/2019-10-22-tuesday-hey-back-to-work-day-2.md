@@ -7,8 +7,8 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1571931685/line
 tags: [2019-10]
 author: # Add name author (optional)
 ---
-ขอบคุณข้าวที่โรงอาหาร / ขอบคุณขนมที่ตลาดหลังโรงงาน / ขอบคุณกล้วย และ มะม่วง / ขอบคุณจักรยาน และ Freeletics / ขอบคุณมือถือ Vivo / ขอบคุณเพลงเพราะๆ ทุกเพลง
+ขอบคุณข้าวที่โรงอาหาร / ขอบคุณขนมที่ตลาดหลังโรงงาน / ขอบคุณกล้วย และ มะม่วง / ขอบคุณจักรยาน และ Freeletics / ขอบคุณมือถือ Vivo / ขอบคุณเพลงเพราะ ๆ ทุกเพลง
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณที่ยังคิดถึงกันเสมอๆ เพราะเราอาจจะยัง Always on someone mind :)
+ขอบคุณที่ยังคิดถึงกันเสมอ ๆ เพราะเราอาจจะยัง Always on someone mind :)

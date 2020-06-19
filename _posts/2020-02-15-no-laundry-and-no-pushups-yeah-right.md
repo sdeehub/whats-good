@@ -13,6 +13,6 @@ author: # Add name author (optional)
 
 How can I grow? - บางทีก็ไม่ได้โตซะหน่อย
 
-What can I give? - บางทีก็ทำให้คนข้างๆ รำคาญ :)
+What can I give? - บางทีก็ทำให้คนข้าง ๆ รำคาญ :)
 
 What can I celebrate? - ครีมนวดน้ำมันมะพร้าว น่าจะเท่ากับทุกครั้งที่สระผม เราจะได้สดชื่น รื่นรมย์กันล่ะทีนี้

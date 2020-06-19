@@ -7,7 +7,7 @@ img: https://source.unsplash.com/gyRa86ExKTw # Add image post (optional)
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณ Zoom / ขอบคุณการเรียน online / ขอบคุณการจัดโต๊ะ / ขอบคุณหูฟัง / ขอบคุณทุกๆ อย่างที่ทำให้พร้อมสำหรับวันนี้
+ขอบคุณ Zoom / ขอบคุณการเรียน online / ขอบคุณการจัดโต๊ะ / ขอบคุณหูฟัง / ขอบคุณทุก ๆ อย่างที่ทำให้พร้อมสำหรับวันนี้
 
 *Photo by [Niclas Illg](https://unsplash.com/@nicklbaert) on [Unsplash](https://unsplash.com)*
 
@@ -15,6 +15,6 @@ author: # Add name author (optional)
 
 How can I grow? - ร้องเพลง ตั้งใจร้องเพลง
 
-What can I give? - ซ้อมให้เยอะๆ
+What can I give? - ซ้อมให้เยอะ ๆ
 
-What can I celebrate? - ซ้อมให้เยอะๆ เวลาร้องจะได้มั่นใจ
+What can I celebrate? - ซ้อมให้เยอะ ๆ เวลาร้องจะได้มั่นใจ

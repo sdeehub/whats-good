@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1571322213/IMG_9185
 tags: [2019-10]
 author: # Add name author (optional)
 ---
-ขอบคุณ Vito / ขอบคุณปากช่อง / ขอบคุณสูงเนิน / ขอบคุณทุกๆ คน ที่น่ารักกับพวกเรามากๆ / ขอบคุณ Fortune ราชพฤกษ์
+ขอบคุณ Vito / ขอบคุณปากช่อง / ขอบคุณสูงเนิน / ขอบคุณทุก ๆ คน ที่น่ารักกับพวกเรามาก ๆ / ขอบคุณ Fortune ราชพฤกษ์
 
 <i class="fa fa-child" style="color:plum"></i>
 

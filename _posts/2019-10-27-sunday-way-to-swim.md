@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณ Momentum สำหรับกำลังใจดีๆ ในทุกๆ วัน - Be peaceful, happy and whole.
+ขอบคุณ Momentum สำหรับกำลังใจดี ๆ ในทุก ๆ วัน - Be peaceful, happy and whole.

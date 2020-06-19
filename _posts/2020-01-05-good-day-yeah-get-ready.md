@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "อาทิตย์ (จริงๆ แล้ว)"
+title: "อาทิตย์ (จริง ๆ แล้ว)"
 date:   2020-01-05 22:43:40 +0700
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1578216735/IMG_0205.jpg # Add image post (optional)

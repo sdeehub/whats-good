@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1583659457/IMG_2020
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณงาน event / ขอบคุณการเดินทาง / ขอบคุณเพื่อนๆ น้องๆ / ขอบคุณอดรฯ ขอนแก่น / ขอบคุณสมอง / ขอบคุณ enfa เหน่ง และ ทีมงาน organizer ทุกๆ คน
+ขอบคุณงาน event / ขอบคุณการเดินทาง / ขอบคุณเพื่อน ๆ น้อง ๆ / ขอบคุณอดรฯ ขอนแก่น / ขอบคุณสมอง / ขอบคุณ enfa เหน่ง และ ทีมงาน organizer ทุก ๆ คน
 
 <i class="fa fa-child" style="color:plum"></i>
 

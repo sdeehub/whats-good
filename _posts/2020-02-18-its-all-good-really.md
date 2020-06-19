@@ -15,4 +15,4 @@ How can I grow? - one at a time ... ว่ากันแบบนี้?
 
 What can I give? - ใช้ถุงผ้า ไม่ว่ายังไงก็จะใช้ถุงผ้า
 
-What can I celebrate? - สดชื่น และ ยินดีกับทุกๆ วัน ทุกๆ โอกาส
+What can I celebrate? - สดชื่น และ ยินดีกับทุก ๆ วัน ทุก ๆ โอกาส

@@ -7,8 +7,8 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1576770112/Screensh
 tags: [2019-12]
 author: # Add name author (optional)
 ---
-ขอบคุณ [Be Inspired](https://www.youtube.com/watch?v=kak8PEl_v1I) และ ทำแบบนี้ทุกๆ เช้า
+ขอบคุณ [Be Inspired](https://www.youtube.com/watch?v=kak8PEl_v1I) และ ทำแบบนี้ทุก ๆ เช้า
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณวัน-เวลา / ขอบคุณเดี๋ยวนี้ ตอนนี้ / ขอบคุณชีวิตนี้ และ การเปลี่ยนแปลงทั้งหมดที่พาเรามาถึงตรงนี้ - ขอบคุณมากๆ ครับ
+ขอบคุณวัน-เวลา / ขอบคุณเดี๋ยวนี้ ตอนนี้ / ขอบคุณชีวิตนี้ และ การเปลี่ยนแปลงทั้งหมดที่พาเรามาถึงตรงนี้ - ขอบคุณมาก ๆ ครับ

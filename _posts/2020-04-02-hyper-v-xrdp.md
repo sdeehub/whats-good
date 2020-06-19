@@ -7,7 +7,7 @@ img: https://source.unsplash.com/iftkRo5iTVo # Add image post (optional)
 tags: [2020-04]
 author: # Add name author (optional)
 ---
-ขอบคุณ Hugo / ขอบคุณ Hyper-V / ขอบคุณ xRDP / ขอบคุณ Virtual Box / ขอบคุณ VPN และอื่นๆ
+ขอบคุณ Hugo / ขอบคุณ Hyper-V / ขอบคุณ xRDP / ขอบคุณ Virtual Box / ขอบคุณ VPN และอื่น ๆ
 
 *Photo by [Irina Iriser](https://unsplash.com/@iriser) on [Unsplash](https://unsplash.com)*
 

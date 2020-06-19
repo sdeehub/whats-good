@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1588869358/P_201605
 tags: [2020-05]
 author: # Add name author (optional)
 ---
-ขอบคุณพัทยา / ขอบคุณทุกๆ คน - เมื่อ 4 ปีก่อน
+ขอบคุณพัทยา / ขอบคุณทุก ๆ คน - เมื่อ 4 ปีก่อน
 
 <i class="fa fa-child" style="color:plum"></i>
 

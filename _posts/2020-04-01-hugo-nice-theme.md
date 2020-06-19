@@ -7,7 +7,7 @@ img: https://source.unsplash.com/VkmDIP2KOmM # Add image post (optional)
 tags: [2020-04]
 author: # Add name author (optional)
 ---
-ขอบคุณเดือนเมษาฯ / ขอบคุณหน้าร้อน / ขอบคุณทะเล / ขอบคุณภูเขาและการเดินทาง / ขอบคุณเวลาที่ลมพัดเบาๆ / ขอบคุณต้นไม้ / ขอบคุณพัดลมเครื่อง (CPU) / ขอบคุณวิธีการระบายความร้อนต่างๆ
+ขอบคุณเดือนเมษาฯ / ขอบคุณหน้าร้อน / ขอบคุณทะเล / ขอบคุณภูเขาและการเดินทาง / ขอบคุณเวลาที่ลมพัดเบา ๆ / ขอบคุณต้นไม้ / ขอบคุณพัดลมเครื่อง (CPU) / ขอบคุณวิธีการระบายความร้อนต่าง ๆ
 
 *Photo by [Charles Deluvio](https://unsplash.com/@charlesdeluvio) on [Unsplash](https://unsplash.com)*
 

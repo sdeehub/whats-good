@@ -17,6 +17,6 @@ author: # Add name author (optional)
 
 How can I grow? - จัดที่ทางสำหรับการทำงาน
 
-What can I give? - ลองเรื่องใหม่ๆ กับอุปกรณ์ที่มี
+What can I give? - ลองเรื่องใหม่ ๆ กับอุปกรณ์ที่มี
 
 What can I celebrate? - ความเป็นไปได้ที่มีไว้ให้ฉลอง!

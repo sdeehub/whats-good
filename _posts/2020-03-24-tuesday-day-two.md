@@ -7,7 +7,7 @@ img: https://source.unsplash.com/rRiAzFkJPMo # Add image post (optional)
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณบ้าน / ขอบคุณการทำงาน / ขอบคุณประสบการณ์ / ขอบคุณทีมงานทุกๆ คน ที่ครั้งหนึ่งได้ตั้งใจเสียสละเข้ามาทำงาน-สนุกสนานด้วยกัน / ขอบคุณ Work from home ในตอนนี้
+ขอบคุณบ้าน / ขอบคุณการทำงาน / ขอบคุณประสบการณ์ / ขอบคุณทีมงานทุก ๆ คน ที่ครั้งหนึ่งได้ตั้งใจเสียสละเข้ามาทำงาน-สนุกสนานด้วยกัน / ขอบคุณ Work from home ในตอนนี้
 
 *Photo by [yann maignan](https://unsplash.com/@paris_interieurs) on [Unsplash](https://unsplash.com)*
 

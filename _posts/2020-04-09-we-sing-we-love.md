@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1586499940/IMG_2020
 tags: [2020-04]
 author: # Add name author (optional)
 ---
-ขอบคุณฉลวย (TMF ของพวกเรา) / ขอบคุณ WeSing / ขอบคุณหูฟัง Marshall BT / ขอบคุณการร้องเพลง / ขอบคุณทุกๆ คนที่ฟัง หรือ ทนฟัง?
+ขอบคุณฉลวย (TMF ของพวกเรา) / ขอบคุณ WeSing / ขอบคุณหูฟัง Marshall BT / ขอบคุณการร้องเพลง / ขอบคุณทุก ๆ คนที่ฟัง หรือ ทนฟัง?
 
 ระหว่างฝึกก็คงต้องอดทนกันแบบนี้ทุกคน :)
 

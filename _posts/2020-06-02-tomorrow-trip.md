@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณมือถือ Vivo V3 อุปกรณ์ที่ทำประโยชน์ให้เราอย่างมาก - ขอบคุณมากๆ นะ Vivo
+ขอบคุณมือถือ Vivo V3 อุปกรณ์ที่ทำประโยชน์ให้เราอย่างมาก - ขอบคุณมาก ๆ นะ Vivo

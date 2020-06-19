@@ -7,7 +7,7 @@ img: https://source.unsplash.com/rFrkhK7wuHs # Add image post (optional)
 tags: [2019-05]
 author: # Add name author (optional)
 ---
-ขอบคุณเพื่อนๆ ในห้องเรียนทางไกล / ขอบคุณคุณแม่นะครับ ดูว่าจะเป็นห่วงมาก ถึงมากที่สุดนะครับ
+ขอบคุณเพื่อน ๆ ในห้องเรียนทางไกล / ขอบคุณคุณแม่นะครับ ดูว่าจะเป็นห่วงมาก ถึงมากที่สุดนะครับ
 
 ขอบคุณนะครับแม่ <i class="fa fa-child" style="color:plum"></i>
 

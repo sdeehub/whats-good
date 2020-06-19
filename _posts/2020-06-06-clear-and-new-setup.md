@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1591460934/IMG_
 tags: [2020-06]
 author: # Add name author (optional)
 ---
-ขอบคุณวันเสาร์ที่ได้กลับไปเรียนร้องเพลงที่โรงเรียนอีกครั้ง / ขอบคุณภาพและเรื่องราวเก่าๆ จาก [PANTIP.COM](http://topicstock.pantip.com/isolate/topicstock/2012/11/M12951410/M12951410.html) / ขอบคุณ cactus ดินสอดำ วันนี้ขายเมล็ดได้ภายในไม่กี่นาทีที่ลงขาย ดีใจกันทุกๆ คน
+ขอบคุณวันเสาร์ที่ได้กลับไปเรียนร้องเพลงที่โรงเรียนอีกครั้ง / ขอบคุณภาพและเรื่องราวเก่า ๆ จาก [PANTIP.COM](http://topicstock.pantip.com/isolate/topicstock/2012/11/M12951410/M12951410.html) / ขอบคุณ cactus ดินสอดำ วันนี้ขายเมล็ดได้ภายในไม่กี่นาทีที่ลงขาย ดีใจกันทุก ๆ คน
 
 <i class="fa fa-child" style="color:plum"></i>
 

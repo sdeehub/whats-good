@@ -7,7 +7,7 @@ img: https://source.unsplash.com/xn0A5isDksM # Add image post (optional)
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณวันเสาร์ และ คืนวันเสาร์ / ขอบคุณหนังสือรุ่น / ขอบคุณเพื่อนๆ / ขอบคุณสอง และ การเรียนร้องเพลง / ขอบคุณความกังวลใจ และ โรคภัยไข้เจ็บ
+ขอบคุณวันเสาร์ และ คืนวันเสาร์ / ขอบคุณหนังสือรุ่น / ขอบคุณเพื่อน ๆ / ขอบคุณสอง และ การเรียนร้องเพลง / ขอบคุณความกังวลใจ และ โรคภัยไข้เจ็บ
 
 *Photo by [Pablo Alonso](https://unsplash.com/@pablici) on [Unsplash](https://unsplash.com)*
 
@@ -15,6 +15,6 @@ author: # Add name author (optional)
 
 How can I grow? - ทำงาน ทำสิ่งที่เป็นประโยชน์
 
-What can I give? - ทำเพื่อตัวเรา เพื่อครอบครัว เพื่อเพื่อนๆ และ ผู้อื่น
+What can I give? - ทำเพื่อตัวเรา เพื่อครอบครัว เพื่อเพื่อน ๆ และ ผู้อื่น
 
-What can I celebrate? - คืนวันเสาร์ธรรมดาๆ
+What can I celebrate? - คืนวันเสาร์ธรรมดา ๆ

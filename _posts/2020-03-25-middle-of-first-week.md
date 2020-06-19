@@ -7,7 +7,7 @@ img: https://source.unsplash.com/m82uh_vamhg # Add image post (optional)
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณการเก็บตัว / ขอบคุณระยะห่าง / ขอบคุณการทำงานที่บ้าน / ขอบคุณเทคโนโลยีที่สนับสนุนเราในทุกๆ ด้าน
+ขอบคุณการเก็บตัว / ขอบคุณระยะห่าง / ขอบคุณการทำงานที่บ้าน / ขอบคุณเทคโนโลยีที่สนับสนุนเราในทุก ๆ ด้าน
 
 *Photo by [Vicko Mozara](https://unsplash.com/@vicko) on [Unsplash](https://unsplash.com)*
 

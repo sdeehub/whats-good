@@ -7,7 +7,7 @@ img: https://source.unsplash.com/ma3ivTHdyxU # Add image post (optional)
 tags: [2019-04]
 author: # Add name author (optional)
 ---
-ขอบคุณที่เคลื่อนย้ายเนื้อหาทั้งหมดจาก blogger มาได้เรียบร้อยแล้ว จะมีก็มาตรวจทานดูอีกสักหน่อย ค่อยๆ ทยอยทำตอนที่ว่างๆ เบื่อๆ <i class="fa fa-child" style="color:plum"></i>
+ขอบคุณที่เคลื่อนย้ายเนื้อหาทั้งหมดจาก blogger มาได้เรียบร้อยแล้ว จะมีก็มาตรวจทานดูอีกสักหน่อย ค่อย ๆ ทยอยทำตอนที่ว่าง ๆ เบื่อ ๆ <i class="fa fa-child" style="color:plum"></i>
 
 *ความดี ความมีน้ำใจ การที่ได้ช่วยเหลือใครในวันนี้*:
 - ตากผ้า

@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณดอกไม้สวยๆ ด้วย :)
+ขอบคุณดอกไม้สวย ๆ ด้วย :)

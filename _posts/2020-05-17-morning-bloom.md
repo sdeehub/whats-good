@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1589686213/IMG_1920
 tags: [2020-05]
 author: # Add name author (optional)
 ---
-ขอบคุณดอกไม้สวยๆ / ขอบคุณธรรมชาติ / ขอบคุณความคิด / ขอบคุณความโกรธด้วยเหมือนกันในบางที
+ขอบคุณดอกไม้สวย ๆ / ขอบคุณธรรมชาติ / ขอบคุณความคิด / ขอบคุณความโกรธด้วยเหมือนกันในบางที
 
 <i class="fa fa-child" style="color:plum"></i>

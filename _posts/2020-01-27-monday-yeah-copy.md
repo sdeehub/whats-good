@@ -15,4 +15,4 @@ How can I grow? - Coding and more
 
 What can I give? - ลงมือทำ ถึงจะเป็นทีละเล็กละน้อย
 
-What can I celebrate? - ย้อนกลับไปดูวันที่เราค่อยๆ ตั้งใจทำ
+What can I celebrate? - ย้อนกลับไปดูวันที่เราค่อย ๆ ตั้งใจทำ

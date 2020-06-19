@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555658919/sample_f
 tags: [2019-06]
 author: # Add name author (optional)
 ---
-วันนี้ทานมื้อเที่ยงกันที่ ก๋วยหลักสิบ - ขอบคุณน้องจอม (ร้านก๋วยหลักสิบ) / ขอบคุณทีมงานทุกๆ คน
+วันนี้ทานมื้อเที่ยงกันที่ ก๋วยหลักสิบ - ขอบคุณน้องจอม (ร้านก๋วยหลักสิบ) / ขอบคุณทีมงานทุก ๆ คน
 
 <i class="fa fa-child" style="color:plum"></i>
 

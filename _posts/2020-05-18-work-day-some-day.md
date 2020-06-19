@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1590073462/IMG_2017
 tags: [2020-05]
 author: # Add name author (optional)
 ---
-ขอบคุณวันที่กลับมาทำงาน / ขอบคุณความพยายามปรับตัวต่างๆ / ขอบคุณ Trello / ขอบคุณ Git / ขอบคุณ Php / ขอบคุณ Firebase / ขอบคุณ AngularJS
+ขอบคุณวันที่กลับมาทำงาน / ขอบคุณความพยายามปรับตัวต่าง ๆ / ขอบคุณ Trello / ขอบคุณ Git / ขอบคุณ Php / ขอบคุณ Firebase / ขอบคุณ AngularJS
 
 <i class="fa fa-child" style="color:plum"></i>

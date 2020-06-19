@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/a_0/v1570024567/line
 tags: [2019-09]
 author: # Add name author (optional)
 ---
-ขอบคุณร้านขายผลไม้หน้า 7 / ขอบคุณแก้วมังกร หวาน อร่อย / ขอบคุณขนม นม ถั่ว ทุกๆ อย่าง
+ขอบคุณร้านขายผลไม้หน้า 7 / ขอบคุณแก้วมังกร หวาน อร่อย / ขอบคุณขนม นม ถั่ว ทุก ๆ อย่าง
 
 <i class="fa fa-child" style="color:plum"></i>
 

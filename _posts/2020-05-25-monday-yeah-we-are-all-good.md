@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1590567676/IMG_2175
 tags: [2020-05]
 author: # Add name author (optional)
 ---
-ขอบคุณเจ้าแมวน้อย / ขอบคุณไม้กลายเป็นหิน ก้อนเล็กๆ ที่บ้านเรา
+ขอบคุณเจ้าแมวน้อย / ขอบคุณไม้กลายเป็นหิน ก้อนเล็ก ๆ ที่บ้านเรา
 
 <i class="fa fa-child" style="color:plum"></i>

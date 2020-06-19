@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณทุกๆ อย่างสำหรับวันนี้ วันที่อิ่มมากๆ
+ขอบคุณทุก ๆ อย่างสำหรับวันนี้ วันที่อิ่มมาก ๆ

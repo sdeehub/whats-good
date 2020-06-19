@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "บ้าน"
+title: "(จาก)บ้าน"
 date: 2020-06-08 T15:21:48+07:00
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/a_-90/v1591715969/IMG_20150609_094033.jpg # Add image post (optional)

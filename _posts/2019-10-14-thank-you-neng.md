@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1571322197/IMG_9238
 tags: [2019-10]
 author: # Add name author (optional)
 ---
-ขอบคุณเหน่ง - ขอบคุณคุณแม่เหน่ง / ขอบคุณบ้านกลางเมือง / ขอบคุณงาน Event และงานอื่นๆ ที่เราได้เข้าไปทำด้วยกัน
+ขอบคุณเหน่ง - ขอบคุณคุณแม่เหน่ง / ขอบคุณบ้านกลางเมือง / ขอบคุณงาน Event และงานอื่น ๆ ที่เราได้เข้าไปทำด้วยกัน
 
 <i class="fa fa-child" style="color:plum"></i>
 

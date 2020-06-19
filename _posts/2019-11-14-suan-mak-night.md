@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1573748144/IMG_2019
 tags: [2019-11]
 author: # Add name author (optional)
 ---
-ขอบคุณสวนหมาก ไนท์บาซาร์ / ขอบคุณไนท์สปอร์ต - Radio Active - Quiet Storm - จิ๊กโก๋ ยามบ่าย / ขอบคุณเพลงเพราะๆ / ขอบคุณเชียงใหม่ - Hi-Way หรือ วงแหวนบายพาสตัดใหม่? / ขอบคุณเพราะนานมาแล้ว ...
+ขอบคุณสวนหมาก ไนท์บาซาร์ / ขอบคุณไนท์สปอร์ต - Radio Active - Quiet Storm - จิ๊กโก๋ ยามบ่าย / ขอบคุณเพลงเพราะ ๆ / ขอบคุณเชียงใหม่ - Hi-Way หรือ วงแหวนบายพาสตัดใหม่? / ขอบคุณเพราะนานมาแล้ว ...
 
 <i class="fa fa-child" style="color:plum"></i>
 

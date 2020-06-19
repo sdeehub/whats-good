@@ -7,7 +7,7 @@ img: https://source.unsplash.com/A5rCN8626Ck # Add image post (optional)
 tags: [2020-02]
 author: # Add name author (optional)
 ---
-ขอบคุณ Budget / ขอบคุณความเรียบร้อย-ปลอดภัยของการเดินทาง / ขอบคุณขอนแก่น / ขอบคุณยามจ่อย / ขอบคุณอภิรมย์ / ขอบคุณพวกเราทุกๆ คน
+ขอบคุณ Budget / ขอบคุณความเรียบร้อย-ปลอดภัยของการเดินทาง / ขอบคุณขอนแก่น / ขอบคุณยามจ่อย / ขอบคุณอภิรมย์ / ขอบคุณพวกเราทุก ๆ คน
 
 *Photo by [Dino Reichmuth](https://unsplash.com/@dinoreichmuth) on [Unsplash](https://unsplash.com)*
 

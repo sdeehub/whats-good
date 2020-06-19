@@ -7,7 +7,7 @@ img: https://source.unsplash.com/3kKLU4-UUbU # Add image post (optional)
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณอีกมุมมองของการทำงานที่บ้าน / ขอบคุณ WFH - Work from home / ขอบคุณหูฟังเก่าๆ / ขอบคุณอุปกรณ์ทุกๆ อย่าง / ขอบคุณ Notebook Dell
+ขอบคุณอีกมุมมองของการทำงานที่บ้าน / ขอบคุณ WFH - Work from home / ขอบคุณหูฟังเก่า ๆ / ขอบคุณอุปกรณ์ทุก ๆ อย่าง / ขอบคุณ Notebook Dell
 
 *Photo by [Alessandro Bianchi](https://unsplash.com/@ale_s_bianchi) on [Unsplash](https://unsplash.com)*
 

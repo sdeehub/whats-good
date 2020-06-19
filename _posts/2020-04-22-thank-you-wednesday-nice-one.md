@@ -11,4 +11,4 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-ขอบคุณทุกๆ คนที่บ้าน / ขอบคุณทุกๆ คนที่ทำงาน
+ขอบคุณทุก ๆ คนที่บ้าน / ขอบคุณทุก ๆ คนที่ทำงาน

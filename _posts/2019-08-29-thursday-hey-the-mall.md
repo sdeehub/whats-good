@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1567309731/IMG_2019
 tags: [2019-08]
 author: # Add name author (optional)
 ---
-ขอบคุณย่าโม / ขอบคุณเมืองโคราช / ขอบคุณหมี่โคราช (หมี่ตะคุ) / ขอบคุณร้านบะหมี่อร่อยๆ Kumkee และ ร้านขนมอร่อยๆ จอมพล
+ขอบคุณย่าโม / ขอบคุณเมืองโคราช / ขอบคุณหมี่โคราช (หมี่ตะคุ) / ขอบคุณร้านบะหมี่อร่อย ๆ Kumkee และ ร้านขนมอร่อย ๆ จอมพล
 
 <i class="fa fa-child" style="color:plum"></i>
 

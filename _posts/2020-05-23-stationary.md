@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1590334714/IMG_2192
 tags: [2020-05]
 author: # Add name author (optional)
 ---
-ขอบคุณวันเสาร์ / ขอบคุณร้านนายเครื่องเขียน / ขอบคุณมื้อเช้า ตอนสายๆ
+ขอบคุณวันเสาร์ / ขอบคุณร้านนายเครื่องเขียน / ขอบคุณมื้อเช้า ตอนสาย ๆ
 
 <i class="fa fa-child" style="color:plum"></i>
 

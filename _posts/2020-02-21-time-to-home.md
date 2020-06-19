@@ -13,6 +13,6 @@ author: # Add name author (optional)
 
 How can I grow? - เติบโตด้วยความรู้สึกขอบคุณ
 
-What can I give? - ให้ทิปเล็กๆ น้อยๆ ด้วยแทนความรู้สึกขอบคุณเป็นพิเศษ
+What can I give? - ให้ทิปเล็ก ๆ น้อย ๆ ด้วยแทนความรู้สึกขอบคุณเป็นพิเศษ
 
 What can I celebrate? - พายข้าวโพด และ มื้อเย็นที่บ้าน

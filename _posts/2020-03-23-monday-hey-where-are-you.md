@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1585302216/IMG_1290
 tags: [2020-03]
 author: # Add name author (optional)
 ---
-ขอบคุณเช้าวันจันทร์ ที่เริ่มทำงานที่บ้าน / ขอบคุณบ้าน / ขอบคุณหอพัก / ขอบคุณที่ทำงาน / ขอบพระคุณทุกๆ คน
+ขอบคุณเช้าวันจันทร์ ที่เริ่มทำงานที่บ้าน / ขอบคุณบ้าน / ขอบคุณหอพัก / ขอบคุณที่ทำงาน / ขอบพระคุณทุก ๆ คน
 
 <i class="fa fa-child" style="color:plum"></i>
 

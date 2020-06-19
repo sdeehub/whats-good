@@ -13,8 +13,8 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - ทำงานสนุกๆ
+How can I grow? - ทำงานสนุก ๆ
 
-What can I give? - ทำเว็บสนุกๆ
+What can I give? - ทำเว็บสนุก ๆ
 
-What can I celebrate? - เรื่องเก่าๆ รูปเก่าๆ รอยยิ้มของเพื่อนๆ
+What can I celebrate? - เรื่องเก่า ๆ รูปเก่า ๆ รอยยิ้มของเพื่อน ๆ

@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1580048217/IMG_2020
 tags: [2020-01]
 author: # Add name author (optional)
 ---
-ขอบคุณการเจริญเติบโต / ขอบคุณธรรมชาติ / ขอบคุณความโชคดีในทุกๆ ที่ ในทุกๅ เรื่อง ในทุกๆ สถานการณ์
+ขอบคุณการเจริญเติบโต / ขอบคุณธรรมชาติ / ขอบคุณความโชคดีในทุก ๆ ที่ ในทุกๅ เรื่อง ในทุก ๆ สถานการณ์
 
 <i class="fa fa-child" style="color:plum"></i>
 

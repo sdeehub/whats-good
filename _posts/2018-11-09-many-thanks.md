@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "มีอะไรให้ขอบคุณหลายๆ อย่าง"
+title:  "มีอะไรให้ขอบคุณหลาย ๆ อย่าง"
 date:   2018-11-09 21:21:08 +0700
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1555236811/IMG_20181110_211535293.jpg # Add image post (optional)

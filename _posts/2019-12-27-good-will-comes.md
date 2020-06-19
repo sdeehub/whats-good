@@ -11,7 +11,7 @@ author: # Add name author (optional)
 
 <i class="fa fa-child" style="color:plum"></i>
 
-How can I grow? - ตั้งใจ และก็สบายๆ ไปด้วยพร้อมๆ กัน
+How can I grow? - ตั้งใจ และก็สบาย ๆ ไปด้วยพร้อม ๆ กัน
 
 What can I give? - ตั้งใจฟัง เห็นความคิด พูดแต่สิ่งที่ดี และมีความสุขแก่ผู้อื่น ยิ้มและให้กำลังใจ
 
