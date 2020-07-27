@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1595573778/IMG_2020
 tags: [2020-07]
 author: # Add name author (optional)
 ---
-ขอบคุณวันศุกร์ / ขอบคุณก๋วยเตี๋ยวเรือหน้าวัดใหญ่ (สูงเนิน) / ขอบคุณวันหยุดยาว / ขอบคุณโอ๊ด + คม
+ขอบคุณวันศุกร์ / ขอบคุณก๋วยเตี๋ยวเรือหน้าวัดใหญ่ (สูงเนิน) / ขอบคุณวันหยุดยาว / ขอบคุณโอ๊ด + คม + หม่อน + Peace + Mint
 
 <i class="fa fa-child" style="color:plum"></i>
