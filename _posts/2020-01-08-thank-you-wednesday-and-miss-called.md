@@ -7,7 +7,7 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1578825553/60018952
 tags: [2020-01]
 author: # Add name author (optional)
 ---
-ขอบคุณที่ไม่มี call / ขอบคุณที่ปรับตารางการออกกำลังกาย / ขอบคุณที่ใช้โยคะเข้ามาช่วยให้กล้ามเนื้อยืดหยุ่น / ขอบคุณข้าวที่โรงอาหาร / ขอบคุณ Wendy และ Aerobics Oz's Style
+ขอบคุณที่ไม่มี call / ขอบคุณที่ปรับตารางการออกกำลังกาย / ขอบคุณที่ใช้โยคะเข้ามาช่วยให้กล้ามเนื้อยืดหยุ่น / ขอบคุณข้าวที่โรงอาหาร / ขอบคุณ Wendy และ Aerobics Oz Style
 
 <i class="fa fa-child" style="color:plum"></i>
 
