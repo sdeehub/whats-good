@@ -3,7 +3,7 @@ layout: post
 title: "เทียนหอม"
 date: 2020-08-06 T21:56:05+07:00
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1596552388/IMG_2873.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1596726060/IMG_20200806_184500.jpg # Add image post (optional)
 tags: [2020-08]
 author: # Add name author (optional)
 ---
