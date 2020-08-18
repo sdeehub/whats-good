@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ดีขึ้น"
+title: "ดีขึ้นจริง ๆ"
 date: 2020-08-18 21:32:59
 description: # Add post description (optional)
 img: https://res.cloudinary.com/sdees-reallife/image/upload/v1597760976/IMG_20200818_103654.jpg # Add image post (optional)
