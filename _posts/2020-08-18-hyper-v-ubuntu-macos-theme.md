@@ -7,6 +7,6 @@ img: https://res.cloudinary.com/sdees-reallife/image/upload/v1597760976/IMG_2020
 tags: [2020-08]
 author: # Add name author (optional)
 ---
-ขอบคุณ Atom + Tree-View-Sort / ขอบคุณ Hugo / ขอบคุณ Savigent / ขอบคุณ mocOS Theme - ขอบคุณทุกอย่างอีกครั้ง
+ขอบคุณ Atom + Tree-View-Sort / ขอบคุณ Hugo / ขอบคุณ Savigent / ขอบคุณ macOS Theme - ขอบคุณทุกอย่างอีกครั้ง
 
 <i class="fa fa-child" style="color:plum"></i>
