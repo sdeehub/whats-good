@@ -3,7 +3,7 @@ layout: post
 title: "ปรับหน้าตา"
 date: 2020-08-27 20:57:43
 description: # Add post description (optional)
-img: https://res.cloudinary.com/sdees-reallife/image/upload/v1598450201/1468060325382.jpg # Add image post (optional)
+img: https://res.cloudinary.com/sdees-reallife/image/upload/v1598971367/1598971221604.jpg # Add image post (optional)
 tags: [2020-08]
 author: # Add name author (optional)
 ---
